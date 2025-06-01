@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\02.github\\Winform-UI-Template\\WinFormsTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD26510A-14C9-44C6-BC37-D8B7F3C65FFA}|WinFormsTemplate\\WinFormsTemplate.csproj|e:\\02.github\\winform-ui-template\\winformstemplate\\winformstemplate\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD26510A-14C9-44C6-BC37-D8B7F3C65FFA}|WinFormsTemplate\\WinFormsTemplate.csproj|solutionrelative:winformstemplate\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD26510A-14C9-44C6-BC37-D8B7F3C65FFA}|WinFormsTemplate\\WinFormsTemplate.csproj|e:\\02.github\\winform-ui-template\\winformstemplate\\winformstemplate\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD26510A-14C9-44C6-BC37-D8B7F3C65FFA}|WinFormsTemplate\\WinFormsTemplate.csproj|solutionrelative:winformstemplate\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD26510A-14C9-44C6-BC37-D8B7F3C65FFA}|WinFormsTemplate\\WinFormsTemplate.csproj|e:\\02.github\\winform-ui-template\\winformstemplate\\winformstemplate\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD26510A-14C9-44C6-BC37-D8B7F3C65FFA}|WinFormsTemplate\\WinFormsTemplate.csproj|solutionrelative:winformstemplate\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD26510A-14C9-44C6-BC37-D8B7F3C65FFA}|WinFormsTemplate\\WinFormsTemplate.csproj|e:\\02.github\\winform-ui-template\\winformstemplate\\winformstemplate\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AD26510A-14C9-44C6-BC37-D8B7F3C65FFA}|WinFormsTemplate\\WinFormsTemplate.csproj|solutionrelative:winformstemplate\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemeColor.cs",
+              "DocumentMoniker": "E:\\02.github\\Winform-UI-Template\\WinFormsTemplate\\WinFormsTemplate\\ThemeColor.cs",
+              "RelativeDocumentMoniker": "WinFormsTemplate\\ThemeColor.cs",
+              "ToolTip": "E:\\02.github\\Winform-UI-Template\\WinFormsTemplate\\WinFormsTemplate\\ThemeColor.cs",
+              "RelativeToolTip": "WinFormsTemplate\\ThemeColor.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T02:00:00.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\02.github\\Winform-UI-Template\\WinFormsTemplate\\WinFormsTemplate\\App.config",
+              "RelativeDocumentMoniker": "WinFormsTemplate\\App.config",
+              "ToolTip": "E:\\02.github\\Winform-UI-Template\\WinFormsTemplate\\WinFormsTemplate\\App.config",
+              "RelativeToolTip": "WinFormsTemplate\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-01T01:25:57.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\02.github\\Winform-UI-Template\\WinFormsTemplate\\WinFormsTemplate\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormsTemplate\\MainForm.cs",
+              "ToolTip": "E:\\02.github\\Winform-UI-Template\\WinFormsTemplate\\WinFormsTemplate\\MainForm.cs",
+              "RelativeToolTip": "WinFormsTemplate\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:25:50.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\02.github\\Winform-UI-Template\\WinFormsTemplate\\WinFormsTemplate\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormsTemplate\\MainForm.cs",
+              "ToolTip": "E:\\02.github\\Winform-UI-Template\\WinFormsTemplate\\WinFormsTemplate\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsTemplate\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:19:27.118Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

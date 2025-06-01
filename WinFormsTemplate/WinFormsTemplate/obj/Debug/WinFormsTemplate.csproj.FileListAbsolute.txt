@@ -1,0 +1,10 @@
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\bin\Debug\WinFormsTemplate.exe.config
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\bin\Debug\WinFormsTemplate.exe
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\bin\Debug\WinFormsTemplate.pdb
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.csproj.AssemblyReference.cache
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.Properties.Resources.resources
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.csproj.GenerateResource.cache
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.csproj.CoreCompileInputs.cache
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.exe
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.pdb
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.MainForm.resources
