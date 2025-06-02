@@ -2,9 +2,11 @@ E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\bin\Debug\Win
 E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\bin\Debug\WinFormsTemplate.exe
 E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\bin\Debug\WinFormsTemplate.pdb
 E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.csproj.AssemblyReference.cache
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.ChildForms.Form1.resources
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.ChildForms.Form2.resources
+E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.MainForm.resources
 E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.Properties.Resources.resources
 E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.csproj.GenerateResource.cache
 E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.csproj.CoreCompileInputs.cache
 E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.exe
 E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.pdb
-E:\02.github\Winform-UI-Template\WinFormsTemplate\WinFormsTemplate\obj\Debug\WinFormsTemplate.MainForm.resources

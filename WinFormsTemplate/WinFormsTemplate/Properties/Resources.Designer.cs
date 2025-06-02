@@ -63,9 +63,9 @@ namespace WinFormsTemplate.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap DCDC {
+        internal static System.Drawing.Bitmap ic {
             get {
-                object obj = ResourceManager.GetObject("DCDC", resourceCulture);
+                object obj = ResourceManager.GetObject("ic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
